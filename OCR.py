@@ -1,6 +1,3 @@
-from PIL import Image,ImageDraw,ImageFont
-from uuid import uuid4
-import qrcode
 import pytesseract
 import sys
 from pprint import pprint
